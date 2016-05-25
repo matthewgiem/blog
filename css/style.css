@@ -1,0 +1,17 @@
+.post h2{
+  font-size: 24px;
+  color: white;
+  background-color: grey;
+  padding-left: 5px;
+  font-style: normal;
+}
+
+.post p {
+  font-size: 14px;
+  font-family: cursive;
+}
+
+.content {
+  font-size: 16px;
+  font-style: italic;
+}
